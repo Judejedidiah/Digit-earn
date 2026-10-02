@@ -766,16 +766,27 @@
         min-height: 44px;
         padding-block: 4px;
       }
-      /* Brand artwork is light-on-black with no alpha channel, so the image
-         supplies its own dark background and needs no separate container. */
-      .logo__img {
+      /* selar-logo-web.png is a 500x500 light card whose mark only occupies
+         the middle 368x189, so the empty padding is cropped away and the
+         image is scaled back up to fill the 368x189 frame. */
+      .logo__mark {
+        position: relative;
         display: block;
         flex: none;
-        width: auto;
-        height: clamp(40px, 7.5vw, 52px);
+        overflow: hidden;
+        height: clamp(34px, 6vw, 44px);
+        aspect-ratio: 368 / 189;
         border-radius: 9px;
-        background: #000;
+        background: #e7dbe5;
         box-shadow: 0 0 0 1px rgb(11 15 23 / 0.14);
+      }
+      .logo__img {
+        position: absolute;
+        top: -78.836%;
+        left: -17.935%;
+        width: 135.87%;
+        height: 264.55%;
+        max-width: none;
       }
 
       .nav {
@@ -2069,8 +2080,8 @@
         }
       }
       /* Footer has vertical room, so the brand chip gets more presence. */
-      .footer .logo__img {
-        height: 58px;
+      .footer .logo__mark {
+        height: 50px;
       }
       .footer__tag {
         margin-top: 14px;
@@ -2240,14 +2251,16 @@
     <header class="header" id="siteHeader">
       <div class="wrap header__bar">
         <a class="logo" href="#home" aria-label="Digit Earn — home">
-          <img
-            class="logo__img"
-            src="digit-earn-logo-selar-watermark.png"
-            alt="Digit Earn"
-            width="1360"
-            height="600"
-            decoding="async"
-          />
+          <span class="logo__mark">
+            <img
+              class="logo__img"
+              src="selar-logo-web.png"
+              alt="Digit Earn"
+              width="500"
+              height="500"
+              decoding="async"
+            />
+          </span>
         </a>
 
         <nav class="nav" aria-label="Main">
@@ -3403,14 +3416,16 @@
         <div class="footer__grid">
           <div>
             <a class="logo" href="#home" aria-label="Digit Earn — home">
-              <img
-                class="logo__img"
-                src="digit-earn-logo-selar-watermark.png"
-                alt="Digit Earn"
-                width="1360"
-                height="600"
-                decoding="async"
-              />
+              <span class="logo__mark">
+                <img
+                  class="logo__img"
+                  src="selar-logo-web.png"
+                  alt="Digit Earn"
+                  width="500"
+                  height="500"
+                  decoding="async"
+                />
+              </span>
             </a>
             <p class="footer__tag">LEARN • APPLY • EARN</p>
             <p class="footer__blurb">
