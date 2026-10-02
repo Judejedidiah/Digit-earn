@@ -1,0 +1,739 @@
+{
+  "courses": {
+    "affiliate": [
+      {
+        "name": "affiliate-01",
+        "source": "Affliate/Affliate 1.jpeg",
+        "sourceWidth": 1080,
+        "sourceHeight": 619,
+        "realFormat": "jpeg",
+        "extMismatch": false,
+        "width": 3840,
+        "height": 2201,
+        "srcset": [
+          {
+            "url": "affiliate/affiliate-01-540.jpg",
+            "w": 540
+          },
+          {
+            "url": "affiliate/affiliate-01-1080.jpg",
+            "w": 1080
+          },
+          {
+            "url": "affiliate/affiliate-01-4k.jpg",
+            "w": 3840
+          }
+        ],
+        "master": "affiliate/affiliate-01-4k.jpg",
+        "masterWidth": 3840,
+        "masterHeight": 2201
+      },
+      {
+        "name": "affiliate-02",
+        "source": "Affliate/Affliate 2.jpeg",
+        "sourceWidth": 486,
+        "sourceHeight": 1080,
+        "realFormat": "jpeg",
+        "extMismatch": false,
+        "width": 1728,
+        "height": 3840,
+        "srcset": [
+          {
+            "url": "affiliate/affiliate-02-540.jpg",
+            "w": 540
+          },
+          {
+            "url": "affiliate/affiliate-02-1080.jpg",
+            "w": 1080
+          },
+          {
+            "url": "affiliate/affiliate-02-4k.jpg",
+            "w": 1728
+          }
+        ],
+        "master": "affiliate/affiliate-02-4k.jpg",
+        "masterWidth": 1728,
+        "masterHeight": 3840
+      },
+      {
+        "name": "affiliate-03",
+        "source": "Affliate/Affliate 3.jpeg",
+        "sourceWidth": 561,
+        "sourceHeight": 1280,
+        "realFormat": "jpeg",
+        "extMismatch": false,
+        "width": 1683,
+        "height": 3840,
+        "srcset": [
+          {
+            "url": "affiliate/affiliate-03-540.jpg",
+            "w": 540
+          },
+          {
+            "url": "affiliate/affiliate-03-1080.jpg",
+            "w": 1080
+          },
+          {
+            "url": "affiliate/affiliate-03-4k.jpg",
+            "w": 1683
+          }
+        ],
+        "master": "affiliate/affiliate-03-4k.jpg",
+        "masterWidth": 1683,
+        "masterHeight": 3840
+      },
+      {
+        "name": "affiliate-04",
+        "source": "Affliate/Affliate 4.jpeg",
+        "sourceWidth": 688,
+        "sourceHeight": 1529,
+        "realFormat": "png",
+        "extMismatch": true,
+        "width": 1728,
+        "height": 3840,
+        "srcset": [
+          {
+            "url": "affiliate/affiliate-04-540.jpg",
+            "w": 540
+          },
+          {
+            "url": "affiliate/affiliate-04-1080.jpg",
+            "w": 1080
+          },
+          {
+            "url": "affiliate/affiliate-04-4k.jpg",
+            "w": 1728
+          }
+        ],
+        "master": "affiliate/affiliate-04-4k.jpg",
+        "masterWidth": 1728,
+        "masterHeight": 3840
+      },
+      {
+        "name": "affiliate-05",
+        "source": "Affliate/Affliate 5.jpeg",
+        "sourceWidth": 576,
+        "sourceHeight": 1280,
+        "realFormat": "jpeg",
+        "extMismatch": false,
+        "width": 1728,
+        "height": 3840,
+        "srcset": [
+          {
+            "url": "affiliate/affiliate-05-540.jpg",
+            "w": 540
+          },
+          {
+            "url": "affiliate/affiliate-05-1080.jpg",
+            "w": 1080
+          },
+          {
+            "url": "affiliate/affiliate-05-4k.jpg",
+            "w": 1728
+          }
+        ],
+        "master": "affiliate/affiliate-05-4k.jpg",
+        "masterWidth": 1728,
+        "masterHeight": 3840
+      },
+      {
+        "name": "affiliate-06",
+        "source": "Affliate/Affliate 6.jpeg",
+        "sourceWidth": 576,
+        "sourceHeight": 1280,
+        "realFormat": "jpeg",
+        "extMismatch": false,
+        "width": 1728,
+        "height": 3840,
+        "srcset": [
+          {
+            "url": "affiliate/affiliate-06-540.jpg",
+            "w": 540
+          },
+          {
+            "url": "affiliate/affiliate-06-1080.jpg",
+            "w": 1080
+          },
+          {
+            "url": "affiliate/affiliate-06-4k.jpg",
+            "w": 1728
+          }
+        ],
+        "master": "affiliate/affiliate-06-4k.jpg",
+        "masterWidth": 1728,
+        "masterHeight": 3840
+      },
+      {
+        "name": "affiliate-07",
+        "source": "Affliate/Affliate 7.jpeg",
+        "sourceWidth": 485,
+        "sourceHeight": 1080,
+        "realFormat": "jpeg",
+        "extMismatch": false,
+        "width": 1724,
+        "height": 3840,
+        "srcset": [
+          {
+            "url": "affiliate/affiliate-07-540.jpg",
+            "w": 540
+          },
+          {
+            "url": "affiliate/affiliate-07-1080.jpg",
+            "w": 1080
+          },
+          {
+            "url": "affiliate/affiliate-07-4k.jpg",
+            "w": 1724
+          }
+        ],
+        "master": "affiliate/affiliate-07-4k.jpg",
+        "masterWidth": 1724,
+        "masterHeight": 3839
+      },
+      {
+        "name": "affiliate-08",
+        "source": "Affliate/Affliate 10.jpeg",
+        "sourceWidth": 540,
+        "sourceHeight": 1196,
+        "realFormat": "jpeg",
+        "extMismatch": false,
+        "width": 1734,
+        "height": 3840,
+        "srcset": [
+          {
+            "url": "affiliate/affiliate-08-540.jpg",
+            "w": 540
+          },
+          {
+            "url": "affiliate/affiliate-08-1080.jpg",
+            "w": 1080
+          },
+          {
+            "url": "affiliate/affiliate-08-4k.jpg",
+            "w": 1734
+          }
+        ],
+        "master": "affiliate/affiliate-08-4k.jpg",
+        "masterWidth": 1734,
+        "masterHeight": 3840
+      },
+      {
+        "name": "affiliate-09",
+        "source": "Affliate/Affliate 11.png",
+        "sourceWidth": 720,
+        "sourceHeight": 1600,
+        "realFormat": "png",
+        "extMismatch": false,
+        "width": 1728,
+        "height": 3840,
+        "srcset": [
+          {
+            "url": "affiliate/affiliate-09-540.jpg",
+            "w": 540
+          },
+          {
+            "url": "affiliate/affiliate-09-1080.jpg",
+            "w": 1080
+          },
+          {
+            "url": "affiliate/affiliate-09-4k.jpg",
+            "w": 1728
+          }
+        ],
+        "master": "affiliate/affiliate-09-4k.jpg",
+        "masterWidth": 1728,
+        "masterHeight": 3840
+      },
+      {
+        "name": "affiliate-10",
+        "source": "Affliate/Affliate 12.jpeg",
+        "sourceWidth": 880,
+        "sourceHeight": 1214,
+        "realFormat": "png",
+        "extMismatch": true,
+        "width": 2784,
+        "height": 3840,
+        "srcset": [
+          {
+            "url": "affiliate/affiliate-10-540.jpg",
+            "w": 540
+          },
+          {
+            "url": "affiliate/affiliate-10-1080.jpg",
+            "w": 1080
+          },
+          {
+            "url": "affiliate/affiliate-10-4k.jpg",
+            "w": 2784
+          }
+        ],
+        "master": "affiliate/affiliate-10-4k.jpg",
+        "masterWidth": 2784,
+        "masterHeight": 3841
+      },
+      {
+        "name": "affiliate-11",
+        "source": "Affliate/affliate 13.jpeg",
+        "sourceWidth": 474,
+        "sourceHeight": 1080,
+        "realFormat": "jpeg",
+        "extMismatch": false,
+        "width": 1685,
+        "height": 3840,
+        "srcset": [
+          {
+            "url": "affiliate/affiliate-11-540.jpg",
+            "w": 540
+          },
+          {
+            "url": "affiliate/affiliate-11-1080.jpg",
+            "w": 1080
+          },
+          {
+            "url": "affiliate/affiliate-11-4k.jpg",
+            "w": 1685
+          }
+        ],
+        "master": "affiliate/affiliate-11-4k.jpg",
+        "masterWidth": 1685,
+        "masterHeight": 3839
+      },
+      {
+        "name": "affiliate-12",
+        "source": "Affliate/Afflaite 14.jpeg",
+        "sourceWidth": 558,
+        "sourceHeight": 1280,
+        "realFormat": "jpeg",
+        "extMismatch": false,
+        "width": 1674,
+        "height": 3840,
+        "srcset": [
+          {
+            "url": "affiliate/affiliate-12-540.jpg",
+            "w": 540
+          },
+          {
+            "url": "affiliate/affiliate-12-1080.jpg",
+            "w": 1080
+          },
+          {
+            "url": "affiliate/affiliate-12-4k.jpg",
+            "w": 1674
+          }
+        ],
+        "master": "affiliate/affiliate-12-4k.jpg",
+        "masterWidth": 1674,
+        "masterHeight": 3840
+      },
+      {
+        "name": "affiliate-13",
+        "source": "Affliate/Affliate 15.jpeg",
+        "sourceWidth": 992,
+        "sourceHeight": 1060,
+        "realFormat": "png",
+        "extMismatch": true,
+        "width": 3594,
+        "height": 3840,
+        "srcset": [
+          {
+            "url": "affiliate/affiliate-13-540.jpg",
+            "w": 540
+          },
+          {
+            "url": "affiliate/affiliate-13-1080.jpg",
+            "w": 1080
+          },
+          {
+            "url": "affiliate/affiliate-13-4k.jpg",
+            "w": 3594
+          }
+        ],
+        "master": "affiliate/affiliate-13-4k.jpg",
+        "masterWidth": 3594,
+        "masterHeight": 3840
+      },
+      {
+        "name": "affiliate-14",
+        "source": "Affliate/Affliate 16.jpeg",
+        "sourceWidth": 576,
+        "sourceHeight": 704,
+        "realFormat": "jpeg",
+        "extMismatch": false,
+        "width": 3142,
+        "height": 3840,
+        "srcset": [
+          {
+            "url": "affiliate/affiliate-14-540.jpg",
+            "w": 540
+          },
+          {
+            "url": "affiliate/affiliate-14-1080.jpg",
+            "w": 1080
+          },
+          {
+            "url": "affiliate/affiliate-14-4k.jpg",
+            "w": 3142
+          }
+        ],
+        "master": "affiliate/affiliate-14-4k.jpg",
+        "masterWidth": 3142,
+        "masterHeight": 3840
+      },
+      {
+        "name": "affiliate-15",
+        "source": "Affliate/Affliate 17.jpeg",
+        "sourceWidth": 576,
+        "sourceHeight": 1280,
+        "realFormat": "jpeg",
+        "extMismatch": false,
+        "width": 1728,
+        "height": 3840,
+        "srcset": [
+          {
+            "url": "affiliate/affiliate-15-540.jpg",
+            "w": 540
+          },
+          {
+            "url": "affiliate/affiliate-15-1080.jpg",
+            "w": 1080
+          },
+          {
+            "url": "affiliate/affiliate-15-4k.jpg",
+            "w": 1728
+          }
+        ],
+        "master": "affiliate/affiliate-15-4k.jpg",
+        "masterWidth": 1728,
+        "masterHeight": 3840
+      },
+      {
+        "name": "affiliate-16",
+        "source": "Affliate/Affliate 18.png",
+        "sourceWidth": 720,
+        "sourceHeight": 1184,
+        "realFormat": "png",
+        "extMismatch": false,
+        "width": 2335,
+        "height": 3840,
+        "srcset": [
+          {
+            "url": "affiliate/affiliate-16-540.jpg",
+            "w": 540
+          },
+          {
+            "url": "affiliate/affiliate-16-1080.jpg",
+            "w": 1080
+          },
+          {
+            "url": "affiliate/affiliate-16-4k.jpg",
+            "w": 2335
+          }
+        ],
+        "master": "affiliate/affiliate-16-4k.jpg",
+        "masterWidth": 2335,
+        "masterHeight": 3840
+      },
+      {
+        "name": "affiliate-17",
+        "source": "Affliate/Affliate 19.jpeg",
+        "sourceWidth": 486,
+        "sourceHeight": 1080,
+        "realFormat": "jpeg",
+        "extMismatch": false,
+        "width": 1728,
+        "height": 3840,
+        "srcset": [
+          {
+            "url": "affiliate/affiliate-17-540.jpg",
+            "w": 540
+          },
+          {
+            "url": "affiliate/affiliate-17-1080.jpg",
+            "w": 1080
+          },
+          {
+            "url": "affiliate/affiliate-17-4k.jpg",
+            "w": 1728
+          }
+        ],
+        "master": "affiliate/affiliate-17-4k.jpg",
+        "masterWidth": 1728,
+        "masterHeight": 3840
+      }
+    ],
+    "cyberfriend": [
+      {
+        "name": "cyberfriend-01",
+        "source": "Cyberfriend/Cyberfriend 2.png",
+        "sourceWidth": 720,
+        "sourceHeight": 1600,
+        "realFormat": "png",
+        "extMismatch": false,
+        "width": 1728,
+        "height": 3840,
+        "srcset": [
+          {
+            "url": "cyberfriend/cyberfriend-01-540.jpg",
+            "w": 540
+          },
+          {
+            "url": "cyberfriend/cyberfriend-01-1080.jpg",
+            "w": 1080
+          },
+          {
+            "url": "cyberfriend/cyberfriend-01-4k.jpg",
+            "w": 1728
+          }
+        ],
+        "master": "cyberfriend/cyberfriend-01-4k.jpg",
+        "masterWidth": 1728,
+        "masterHeight": 3840
+      },
+      {
+        "name": "cyberfriend-02",
+        "source": "Cyberfriend/Cyberfriend 3.jpeg",
+        "sourceWidth": 632,
+        "sourceHeight": 1279,
+        "realFormat": "jpeg",
+        "extMismatch": false,
+        "width": 1897,
+        "height": 3840,
+        "srcset": [
+          {
+            "url": "cyberfriend/cyberfriend-02-540.jpg",
+            "w": 540
+          },
+          {
+            "url": "cyberfriend/cyberfriend-02-1080.jpg",
+            "w": 1080
+          },
+          {
+            "url": "cyberfriend/cyberfriend-02-4k.jpg",
+            "w": 1897
+          }
+        ],
+        "master": "cyberfriend/cyberfriend-02-4k.jpg",
+        "masterWidth": 1897,
+        "masterHeight": 3839
+      },
+      {
+        "name": "cyberfriend-03",
+        "source": "Cyberfriend/cyberfriend 5.png",
+        "sourceWidth": 720,
+        "sourceHeight": 1600,
+        "realFormat": "png",
+        "extMismatch": false,
+        "width": 1728,
+        "height": 3840,
+        "srcset": [
+          {
+            "url": "cyberfriend/cyberfriend-03-540.jpg",
+            "w": 540
+          },
+          {
+            "url": "cyberfriend/cyberfriend-03-1080.jpg",
+            "w": 1080
+          },
+          {
+            "url": "cyberfriend/cyberfriend-03-4k.jpg",
+            "w": 1728
+          }
+        ],
+        "master": "cyberfriend/cyberfriend-03-4k.jpg",
+        "masterWidth": 1728,
+        "masterHeight": 3840
+      }
+    ]
+  },
+  "generated": "2026-10-01T17:35:26.139Z",
+  "videos": {
+    "ai-movie": [
+      {
+        "name": "ai-movie-01",
+        "source": "AI videos/Ai videos1.mp4",
+        "sourceWidth": 478,
+        "sourceHeight": 850,
+        "duration": 10,
+        "hasAudio": true,
+        "width": 2160,
+        "height": 3840,
+        "sources": [
+          {
+            "url": "ai-movie/ai-movie-01-720.mp4",
+            "w": 720,
+            "size": 992646
+          },
+          {
+            "url": "ai-movie/ai-movie-01-4k.mp4",
+            "w": 2160,
+            "size": 6139657
+          }
+        ],
+        "poster": "ai-movie/ai-movie-01-poster.jpg",
+        "posterWidth": 1080,
+        "posterHeight": 1921,
+        "master": "ai-movie/ai-movie-01-4k.mp4"
+      },
+      {
+        "name": "ai-movie-02",
+        "source": "AI videos/Ai videos 2.mp4",
+        "sourceWidth": 478,
+        "sourceHeight": 850,
+        "duration": 8,
+        "hasAudio": true,
+        "width": 2160,
+        "height": 3840,
+        "sources": [
+          {
+            "url": "ai-movie/ai-movie-02-720.mp4",
+            "w": 720,
+            "size": 1054414
+          },
+          {
+            "url": "ai-movie/ai-movie-02-4k.mp4",
+            "w": 2160,
+            "size": 6152397
+          }
+        ],
+        "poster": "ai-movie/ai-movie-02-poster.jpg",
+        "posterWidth": 1080,
+        "posterHeight": 1921,
+        "master": "ai-movie/ai-movie-02-4k.mp4"
+      },
+      {
+        "name": "ai-movie-03",
+        "source": "AI videos/Ai videos3.mp4",
+        "sourceWidth": 478,
+        "sourceHeight": 850,
+        "duration": 10,
+        "hasAudio": true,
+        "width": 2160,
+        "height": 3840,
+        "sources": [
+          {
+            "url": "ai-movie/ai-movie-03-720.mp4",
+            "w": 720,
+            "size": 1486958
+          },
+          {
+            "url": "ai-movie/ai-movie-03-4k.mp4",
+            "w": 2160,
+            "size": 8810912
+          }
+        ],
+        "poster": "ai-movie/ai-movie-03-poster.jpg",
+        "posterWidth": 1080,
+        "posterHeight": 1921,
+        "master": "ai-movie/ai-movie-03-4k.mp4"
+      },
+      {
+        "name": "ai-movie-04",
+        "source": "AI videos/Ai videos 4.mp4",
+        "sourceWidth": 720,
+        "sourceHeight": 1280,
+        "duration": 8,
+        "hasAudio": true,
+        "width": 2160,
+        "height": 3840,
+        "sources": [
+          {
+            "url": "ai-movie/ai-movie-04-720.mp4",
+            "w": 720,
+            "size": 901854
+          },
+          {
+            "url": "ai-movie/ai-movie-04-4k.mp4",
+            "w": 2160,
+            "size": 4246207
+          }
+        ],
+        "poster": "ai-movie/ai-movie-04-poster.jpg",
+        "posterWidth": 1080,
+        "posterHeight": 1920,
+        "master": "ai-movie/ai-movie-04-4k.mp4"
+      }
+    ],
+    "affiliate": [
+      {
+        "name": "affiliate-18",
+        "source": "Affliate/Affliate 8.mp4",
+        "sourceWidth": 720,
+        "sourceHeight": 1280,
+        "duration": 32.7,
+        "hasAudio": true,
+        "width": 2160,
+        "height": 3840,
+        "sources": [
+          {
+            "url": "affiliate/affiliate-18-720.mp4",
+            "w": 720,
+            "size": 5063448
+          },
+          {
+            "url": "affiliate/affiliate-18-4k.mp4",
+            "w": 2160,
+            "size": 34391162
+          }
+        ],
+        "poster": "affiliate/affiliate-18-poster.jpg",
+        "posterWidth": 1080,
+        "posterHeight": 1920,
+        "master": "affiliate/affiliate-18-4k.mp4"
+      }
+    ],
+    "cyberfriend": [
+      {
+        "name": "cyberfriend-04",
+        "source": "Cyberfriend/Cyberfriend 1.mp4",
+        "sourceWidth": 362,
+        "sourceHeight": 640,
+        "duration": 15.2,
+        "hasAudio": true,
+        "width": 2172,
+        "height": 3840,
+        "sources": [
+          {
+            "url": "cyberfriend/cyberfriend-04-720.mp4",
+            "w": 720,
+            "size": 1560964
+          },
+          {
+            "url": "cyberfriend/cyberfriend-04-4k.mp4",
+            "w": 2172,
+            "size": 9945289
+          }
+        ],
+        "poster": "cyberfriend/cyberfriend-04-poster.jpg",
+        "posterWidth": 1080,
+        "posterHeight": 1909,
+        "master": "cyberfriend/cyberfriend-04-4k.mp4"
+      },
+      {
+        "name": "cyberfriend-05",
+        "source": "Cyberfriend/Cyberfriend 4.mp4",
+        "sourceWidth": 576,
+        "sourceHeight": 1024,
+        "duration": 6.1,
+        "hasAudio": false,
+        "width": 2160,
+        "height": 3840,
+        "sources": [
+          {
+            "url": "cyberfriend/cyberfriend-05-720.mp4",
+            "w": 720,
+            "size": 683036
+          },
+          {
+            "url": "cyberfriend/cyberfriend-05-4k.mp4",
+            "w": 2160,
+            "size": 4620089
+          }
+        ],
+        "poster": "cyberfriend/cyberfriend-05-poster.jpg",
+        "posterWidth": 1080,
+        "posterHeight": 1920,
+        "master": "cyberfriend/cyberfriend-05-4k.mp4"
+      }
+    ]
+  }
+}
