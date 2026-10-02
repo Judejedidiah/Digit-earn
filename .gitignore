@@ -1,0 +1,15 @@
+# Raw working folders - unedited originals, at the repo root only.
+# Leading slash anchors these, so they cannot also match the deployable
+# media/cyberfriend/ directory (Windows ignore matching is case-insensitive).
+/Affliate/
+/AI videos/
+/Cyberfriend/
+
+# Windows / editor cruft
+*.lnk
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.idea/
+*.log
